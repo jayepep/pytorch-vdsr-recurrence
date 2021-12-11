@@ -82,10 +82,3 @@ After 50 epochs of training, performance on set5：
 | 3x    | 30.41        | 33.52          | 33.66      | 2.14s |
 | 4x    | 28.41        | 31.22          | 31.35      | 2.03s |
 
-### Result
-From left to right are ground truth, bicubic and vdsr
-<p>
-  <img src='Set5/butterfly_GT.bmp' height='200' width='200'/>
-  <img src='result/input.bmp' height='200' width='200'/>
-  <img src='result/output.bmp' height='200' width='200'/>
-</p>
